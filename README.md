@@ -1,5 +1,4 @@
 # Face-mask-detecter-
-Deep neural network model for detecting mask in tensorflow
 
 Dataset used in above code is available here
 
