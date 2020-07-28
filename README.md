@@ -1,4 +1,4 @@
-# Face-mask-detecter-
+# Face-mask-detector-
 
 Dataset used in above code is available here
 
